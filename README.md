@@ -1,5 +1,3 @@
-SQL Retail Sales Data Cleaning and EDA Project
-
 This project showcases the use of **SQL** to perform **data cleaning** and **exploratory data analysis (EDA)** on a retail sales dataset obtained from Kaggle.
 
 Disclaimer
